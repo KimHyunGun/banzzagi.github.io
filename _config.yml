@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+
+# 스킨을 설정하는 부분입니다. 
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
