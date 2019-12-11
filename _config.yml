@@ -16,3 +16,4 @@ url                      : "https://banzzagi.github.io" # the base hostname & pr
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # 사이트의 baseurl을 설정해 줍니다.
+
