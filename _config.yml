@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR" # 사이트의 언어 설정을 할 수있습니다.
 # 표시되는 언어의 내용은 _data/ui-text.yml 에서 수정이 가능합니다.
 
-title                    : "banzzagi's Blog" # 블로그 제목
+title                    : "Banzzagi Blog" # 블로그 제목
 title_separator          : "-" # 글 제목 - 블로그 제목  과 같이 사이트를 표시해줍니다.
 name                     : "Hyungun Kim" # 사이트 소유자의 이름을 사용합니다.(Used to assign a site author.)
 description              : " " # 사이트에 대한 간단한 설명입니다.
